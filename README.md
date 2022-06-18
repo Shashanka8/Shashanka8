@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashanka Nayak 
-- 👀 I’m currently working as Application Developer at Kyndryl. 
+- 👀 I’m currently working as Software Developer based out at India. 
 - 🌱 I’m currently learning React.js, Next.js and Tailwind CSS.
 - 💞️ I’m looking to collaborate on open source projects built with any JS framework.
 - 📫 How to reach me: Can drop a note at nayak.shashanka97@gmail.com 
